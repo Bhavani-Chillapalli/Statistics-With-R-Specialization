@@ -1,1 +1,1 @@
-Course 2 - Inferential Statistics
+# Course 2 - Inferential Statistics
